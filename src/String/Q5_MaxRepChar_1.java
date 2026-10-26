@@ -1,4 +1,4 @@
-//WAP to find the max and min occurring character in given string?
+//WAP to find the max and getMin occurring character in given string?
 package String;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-//Q2 check a string is palindrome or not?
+//Q3_2 check a string is palindrome or not?
 package String.Top50.Easy.Q02_isPalindrome;
 
 import java.util.Scanner;

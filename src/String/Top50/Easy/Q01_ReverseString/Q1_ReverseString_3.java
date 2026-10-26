@@ -1,4 +1,4 @@
-//Q1. reverse a Stirng.
+//Q3_1. reverse a Stirng.
 
 package String.Top50.Easy.Q01_ReverseString;
 

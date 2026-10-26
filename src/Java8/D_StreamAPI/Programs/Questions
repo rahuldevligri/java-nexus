@@ -1,0 +1,94 @@
+🟢 LEVEL 1 — EASY (Basics Clear or Not?)
+1️⃣ Print all elements using Stream.
+2️⃣ Print all even numbers from a list.
+3️⃣ Print square of all numbers.
+4️⃣ Count total elements in a list.
+5️⃣ Find first element of a list.
+6️⃣ Check if any number is greater than 50.
+7️⃣ Check if all numbers are positive.
+8️⃣ Remove duplicate elements from list.
+9️⃣ Sort numbers in ascending order.
+🔟 Sort numbers in descending order.
+
+🟡 LEVEL 2 — MEDIUM (Logic + Combination)
+1️⃣ Find sum of all numbers.
+2️⃣ Find sum of square of even numbers.
+3️⃣ Find maximum number in list.
+4️⃣ Convert all strings to uppercase.
+5️⃣ Find length of each string and collect into list.
+6️⃣ Find numbers starting with digit '1'.
+Example:
+[10, 23, 14, 45, 19]
+Output: [10, 14, 19]
+
+7️⃣ Count how many numbers are even.
+8️⃣ Concatenate all strings with comma.
+9️⃣ Find second highest number.
+🔟 Remove null values from list.
+
+🟠 LEVEL 3 — ADVANCED (Very Important for Interviews 🔥)
+1️⃣ Group strings by their length.
+
+Output:
+{3=[cat, dog], 5=[apple]}
+
+2️⃣ Partition numbers into even and odd.
+
+Output:
+{true=[2,4], false=[1,3]}
+
+3️⃣ Count frequency of each character in string.
+
+Example:
+"banana"
+Output: {b=1, a=3, n=2}
+
+4️⃣ Find duplicate elements in list.
+5️⃣ Find first non-repeated character in string.
+6️⃣ Sort employees by salary.
+7️⃣ Find highest salary employee.
+8️⃣ Group employees by department.
+9️⃣ Find average salary of employees.
+🔟 Convert List<Employee> to Map<Id, Name>.
+
+🔴 LEVEL 4 — HARD (Interview Special 🔥🔥)
+1️⃣ Find top 3 highest numbers.
+2️⃣ Find longest string in list.
+3️⃣ Merge two lists and remove duplicates.
+4️⃣ Find kth largest element.
+5️⃣ Given list of sentences, find frequency of each word.
+6️⃣ Find all anagrams grouped together.
+
+Example:
+["eat", "tea", "tan", "ate", "nat", "bat"]
+Output:
+[[eat, tea, ate], [tan, nat], [bat]]
+
+7️⃣ Find employees whose salary > average salary.
+8️⃣ Sort Map by values using Stream.
+9️⃣ Flatten nested list of lists.
+🔟 Find second highest salary employee per department.
+
+(🔥 Very common in product-based companies)
+
+🧠 BONUS — Theory-Based Questions
+
+Difference between map() and flatMap()?
+
+Difference between reduce() and collect()?
+
+What is lazy evaluation?
+
+What is short-circuiting?
+
+When should we use parallel stream?
+
+Why does reduce() return Optional?
+
+Can stream modify original collection?
+
+What happens if we don’t call terminal operation?
+
+Difference between findFirst() and findAny()?
+
+How does Stream internally work?

@@ -1,0 +1,119 @@
+🔹 1. Core / Basic String Problems (Must Know)
+
+1️⃣ Reverse a String
+👉 "hello" → "olleh"
+
+2️⃣ Check if String is Palindrome
+👉 "madam" → true
+
+3️⃣ Check if two Strings are Anagrams
+👉 "listen", "silent"
+
+4️⃣ Find Duplicate Characters in a String
+
+5️⃣ Count Vowels and Consonants
+
+6️⃣ Count Occurrence of Each Character
+👉 "aabbbcc" → a=2, b=3, c=2
+
+7️⃣ Remove White Spaces
+
+8️⃣ Remove Duplicate Characters
+
+9️⃣ Find First Non-Repeated Character
+
+🔟 Find First Repeated Character
+
+🔹 2. Intermediate Level (Very Frequently Asked)
+
+1️⃣1️⃣ Longest Substring Without Repeating Characters
+👉 Sliding Window (🔥 VERY IMPORTANT)
+
+1️⃣2️⃣ Longest Common Prefix
+👉 ["flower","flow","flight"] → "fl"
+
+1️⃣3️⃣ Check if One String is Rotation of Another
+👉 "abcd", "cdab"
+
+1️⃣4️⃣ String Compression
+👉 "aaabbc" → a3b2c1
+
+1️⃣5️⃣ Check if String contains only digits
+
+1️⃣6️⃣ Convert String to Integer (Implement atoi)
+
+1️⃣7️⃣ Check if two Strings are Isomorphic
+
+1️⃣8️⃣ Find All Substrings of a String
+
+1️⃣9️⃣ Count All Palindromic Substrings
+
+2️⃣0️⃣ Longest Palindromic Substring (🔥 Important)
+
+🔹 3. Pattern-Based & Sliding Window (HIGH IMPACT)
+
+2️⃣1️⃣ Minimum Window Substring
+👉 "ADOBECODEBANC", "ABC"
+
+2️⃣2️⃣ Group Anagrams (🔥 VERY VERY IMPORTANT)
+👉 ["eat","tea","tan","ate","nat","bat"]
+
+2️⃣3️⃣ Find All Anagrams in a String
+
+2️⃣4️⃣ Check if Permutation Exists in String
+
+2️⃣5️⃣ Longest Repeating Character Replacement
+
+2️⃣6️⃣ Smallest Substring Containing All Characters
+
+🔹 4. Advanced / Tricky (Asked in Good Companies)
+
+2️⃣7️⃣ String to ZigZag Conversion
+
+2️⃣8️⃣ Multiply Strings (without BigInteger)
+
+2️⃣9️⃣ Decode String
+👉 "3[a2[c]] → accaccacc"
+
+3️⃣0️⃣ Restore IP Addresses
+
+3️⃣1️⃣ Compare Version Numbers
+
+3️⃣2️⃣ Implement strStr() (Substring search - KMP)
+
+3️⃣3️⃣ Rabin-Karp String Matching
+
+3️⃣4️⃣ KMP Algorithm (Pattern Matching)
+
+3️⃣5️⃣ Check if String is Valid Shuffle of Two Strings
+
+🔹 5. Backtracking + Recursion Based
+
+3️⃣6️⃣ Generate All Permutations of String
+
+3️⃣7️⃣ Generate All Subsequences
+
+3️⃣8️⃣ Letter Combinations of Phone Number
+
+🔹 6. Stack / Expression Based Strings
+
+3️⃣9️⃣ Valid Parentheses (🔥 VERY COMMON)
+
+4️⃣0️⃣ Minimum Add to Make Parentheses Valid
+
+4️⃣1️⃣ Remove Invalid Parentheses
+
+🔹 7. Real Interview Favorites (Top Picks 🚀)
+
+If you have less time, focus on these:
+
+✅ Longest Substring Without Repeating Characters
+✅ Group Anagrams
+✅ Longest Palindromic Substring
+✅ Minimum Window Substring
+✅ Valid Parentheses
+✅ String Compression
+✅ First Non-Repeating Character
+✅ Implement atoi
+✅ KMP / Pattern Matching
+✅ Count Palindromic Substrings
